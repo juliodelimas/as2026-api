@@ -1,6 +1,6 @@
 {
   "name": "as2026-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "E-commerce Checkout REST API with Express (Login, Register, Cart, Checkout)",
   "main": "src/server.js",
   "scripts": {
